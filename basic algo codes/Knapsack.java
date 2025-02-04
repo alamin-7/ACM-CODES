@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class Knapsack {
 
     static int knapsack(int [] profit, int [] weight, int capacity){
         int n = weight.length;
